@@ -30,42 +30,43 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-orgheadline3">Lenguajes Declarativos</a>
+<li><a href="#/slide-orgheadline1">Eduardo Mombello</a></li>
+<li><a href="#/slide-orgheadline4">Lenguajes Declarativos</a>
 <ul>
-<li><a href="#/slide-orgheadline1">Características</a></li>
-<li><a href="#/slide-orgheadline2">Lenguajes</a></li>
+<li><a href="#/slide-orgheadline2">Características</a></li>
+<li><a href="#/slide-orgheadline3">Lenguajes</a></li>
 </ul>
 </li>
-<li><a href="#/slide-orgheadline25">Prolog</a>
+<li><a href="#/slide-orgheadline26">Prolog</a>
 <ul>
-<li><a href="#/slide-orgheadline4">Programación en Lógica</a></li>
-<li><a href="#/slide-orgheadline8">Ejemplo fibonacci</a>
+<li><a href="#/slide-orgheadline5">Programación en Lógica</a></li>
+<li><a href="#/slide-orgheadline9">Ejemplo fibonacci</a>
 <ul>
-<li><a href="#/slide-orgheadline5">sucesion de fibonacci</a></li>
-<li><a href="#/slide-orgheadline6">Conejos</a></li>
-<li><a href="#/slide-orgheadline7">programa</a></li>
+<li><a href="#/slide-orgheadline6">sucesion de fibonacci</a></li>
+<li><a href="#/slide-orgheadline7">Conejos</a></li>
+<li><a href="#/slide-orgheadline8">programa</a></li>
 </ul>
 </li>
-<li><a href="#/slide-orgheadline13">Sintaxis</a>
+<li><a href="#/slide-orgheadline14">Sintaxis</a>
 <ul>
-<li><a href="#/slide-orgheadline9">Atomos</a></li>
-<li><a href="#/slide-orgheadline10">Números</a></li>
-<li><a href="#/slide-orgheadline11">Variables</a></li>
-<li><a href="#/slide-orgheadline12">Términos Complejos</a></li>
+<li><a href="#/slide-orgheadline10">Atomos</a></li>
+<li><a href="#/slide-orgheadline11">Números</a></li>
+<li><a href="#/slide-orgheadline12">Variables</a></li>
+<li><a href="#/slide-orgheadline13">Términos Complejos</a></li>
 </ul>
 </li>
-<li><a href="#/slide-orgheadline14">Listas</a></li>
-<li><a href="#/slide-orgheadline24">Ejemplo Autómata Finito</a>
+<li><a href="#/slide-orgheadline15">Listas</a></li>
+<li><a href="#/slide-orgheadline25">Ejemplo Autómata Finito</a>
 <ul>
-<li><a href="#/slide-orgheadline15">Código</a></li>
 <li><a href="#/slide-orgheadline16">Código</a></li>
 <li><a href="#/slide-orgheadline17">Código</a></li>
-<li><a href="#/slide-orgheadline18">Arbol SLD</a></li>
+<li><a href="#/slide-orgheadline18">Código</a></li>
 <li><a href="#/slide-orgheadline19">Arbol SLD</a></li>
 <li><a href="#/slide-orgheadline20">Arbol SLD</a></li>
 <li><a href="#/slide-orgheadline21">Arbol SLD</a></li>
 <li><a href="#/slide-orgheadline22">Arbol SLD</a></li>
-<li><a href="#/slide-orgheadline23">\(Tp^n\)</a></li>
+<li><a href="#/slide-orgheadline23">Arbol SLD</a></li>
+<li><a href="#/slide-orgheadline24">\(Tp^n\)</a></li>
 </ul>
 </li>
 </ul>
@@ -76,17 +77,30 @@
 </section>
 
 <section>
-<section id="slide-orgheadline3">
+<section id="slide-orgheadline1">
 <div class="slide-header"></div>
-<h2 id="orgheadline3">Lenguajes Declarativos</h2>
-<div class="outline-text-2" id="text-orgheadline3">
+<h2 id="orgheadline1">Eduardo Mombello</h2>
+<ul>
+<li>Director</li>
+<li>sdfdd</li>
+
+</ul>
+
+<div class="slide-footer"></div>
+</section>
+</section>
+<section>
+<section id="slide-orgheadline4">
+<div class="slide-header"></div>
+<h2 id="orgheadline4">Lenguajes Declarativos</h2>
+<div class="outline-text-2" id="text-orgheadline4">
 </div><div class="slide-footer"></div>
 </section>
 </section>
 <section>
-<section id="slide-orgheadline1">
+<section id="slide-orgheadline2">
 <div class="slide-header"></div>
-<h3 id="orgheadline1">Características</h3>
+<h3 id="orgheadline2">Características</h3>
 <ul>
 <li class="fragment roll-in">Programa es Lógica + Control (Kowalski)</li>
 
@@ -106,9 +120,9 @@
 </section>
 </section>
 <section>
-<section id="slide-orgheadline2">
+<section id="slide-orgheadline3">
 <div class="slide-header"></div>
-<h3 id="orgheadline2">Lenguajes</h3>
+<h3 id="orgheadline3">Lenguajes</h3>
 <ul>
 <li>Prolog
 <ul>
@@ -128,17 +142,17 @@
 </section>
 </section>
 <section>
-<section id="slide-orgheadline25">
+<section id="slide-orgheadline26">
 <div class="slide-header"></div>
-<h2 id="orgheadline25">Prolog</h2>
-<div class="outline-text-2" id="text-orgheadline25">
+<h2 id="orgheadline26">Prolog</h2>
+<div class="outline-text-2" id="text-orgheadline26">
 </div><div class="slide-footer"></div>
 </section>
 </section>
 <section>
-<section id="slide-orgheadline4">
+<section id="slide-orgheadline5">
 <div class="slide-header"></div>
-<h3 id="orgheadline4">Programación en Lógica</h3>
+<h3 id="orgheadline5">Programación en Lógica</h3>
 <ul>
 <li class="fragment roll-in">Cláusulas de Horn</li>
 <li class="fragment roll-in">Resolución SLD (basado en resolución de Robinson)</li>
@@ -150,15 +164,15 @@
 </section>
 </section>
 <section>
-<section id="slide-orgheadline8">
+<section id="slide-orgheadline9">
 <div class="slide-header"></div>
-<h3 id="orgheadline8">Ejemplo fibonacci</h3>
-<div class="outline-text-3" id="text-orgheadline8">
+<h3 id="orgheadline9">Ejemplo fibonacci</h3>
+<div class="outline-text-3" id="text-orgheadline9">
 </div><div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline5">
+<section id="slide-orgheadline6">
 <div class="slide-header"></div>
-<h4 id="orgheadline5">sucesion de fibonacci</h4>
+<h4 id="orgheadline6">sucesion de fibonacci</h4>
 <p>
 En matemáticas, la sucesión de Fibonacci (a veces llamada erróneamente
 serie de Fibonacci) es la siguiente sucesión infinita de números
@@ -189,9 +203,9 @@ configuración de las piñas de las coníferas.
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline6">
+<section id="slide-orgheadline7">
 <div class="slide-header"></div>
-<h4 id="orgheadline6">Conejos</h4>
+<h4 id="orgheadline7">Conejos</h4>
 <p>
 una forma de exponer la sucesión de fibonacci es presentando el
 crecimiento de una población de conejos con las siguientes reglas:
@@ -284,9 +298,9 @@ conejo joven.</li>
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline7">
+<section id="slide-orgheadline8">
 <div class="slide-header"></div>
-<h4 id="orgheadline7">programa</h4>
+<h4 id="orgheadline8">programa</h4>
 <div class="org-src-container">
 
 <pre  class="src src-prolog">:- <span style="color: #b0c4de;">module</span>(fibonacci,<span style="color: #00ffff;">[</span><span style="color: #87cefa;">f/2</span><span style="color: #00ffff;">]</span>).
@@ -307,9 +321,9 @@ conejo joven.</li>
 </section>
 </section>
 <section>
-<section id="slide-orgheadline13">
+<section id="slide-orgheadline14">
 <div class="slide-header"></div>
-<h3 id="orgheadline13">Sintaxis</h3>
+<h3 id="orgheadline14">Sintaxis</h3>
 <p>
 Términos:
 </p>
@@ -336,9 +350,9 @@ a , b  ...  <span style="color: #87cefa;">z</span>
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline9">
+<section id="slide-orgheadline10">
 <div class="slide-header"></div>
-<h4 id="orgheadline9">Atomos</h4>
+<h4 id="orgheadline10">Atomos</h4>
 <p>
 Un átomo es:
 </p>
@@ -380,9 +394,9 @@ ejemplos
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline10">
+<section id="slide-orgheadline11">
 <div class="slide-header"></div>
-<h4 id="orgheadline10">Números</h4>
+<h4 id="orgheadline11">Números</h4>
 <p>
 ejemplos
 </p>
@@ -394,9 +408,9 @@ ejemplos
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline11">
+<section id="slide-orgheadline12">
 <div class="slide-header"></div>
-<h4 id="orgheadline11">Variables</h4>
+<h4 id="orgheadline12">Variables</h4>
 <p>
 Una variable es una cadena de caracteres de letras mayúsculas,
 minúsculas, digitos, guión bajo, que comience con una letra mayúscula
@@ -411,9 +425,9 @@ ejemplos:
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline12">
+<section id="slide-orgheadline13">
 <div class="slide-header"></div>
-<h4 id="orgheadline12">Términos Complejos</h4>
+<h4 id="orgheadline13">Términos Complejos</h4>
 <p>
 Un término se compone de un functor seguido de cero a N argumentos entre paréntesis y separados
 por comas. Cada argumento es un término.
@@ -442,9 +456,9 @@ ejemplos:
 </section>
 </section>
 <section>
-<section id="slide-orgheadline14">
+<section id="slide-orgheadline15">
 <div class="slide-header"></div>
-<h3 id="orgheadline14">Listas</h3>
+<h3 id="orgheadline15">Listas</h3>
 <ul>
 <li class="fragment roll-in">.(1,.(2,.(3,.(4,[]))))   dos argumentos Cabeza y Cola ./2</li>
 <li class="fragment roll-in">[1|[2|[3|[4|[]]]]]    notacion alternativa [|]</li>
@@ -458,9 +472,9 @@ ejemplos:
 </section>
 </section>
 <section>
-<section id="slide-orgheadline24">
+<section id="slide-orgheadline25">
 <div class="slide-header"></div>
-<h3 id="orgheadline24">Ejemplo Autómata Finito</h3>
+<h3 id="orgheadline25">Ejemplo Autómata Finito</h3>
 
 <figure>
 <p><img src="automata.png" alt="automata.png">
@@ -489,9 +503,9 @@ aabb, aa, bb, ababa
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline15">
+<section id="slide-orgheadline16">
 <div class="slide-header"></div>
-<h4 id="orgheadline15">Código</h4>
+<h4 id="orgheadline16">Código</h4>
 <p>
 El código en prolog que representa el autómata es
 </p>
@@ -518,9 +532,9 @@ El código en prolog que representa el autómata es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline16">
+<section id="slide-orgheadline17">
 <div class="slide-header"></div>
-<h4 id="orgheadline16">Código</h4>
+<h4 id="orgheadline17">Código</h4>
 <p>
 el código que representa el reconocedor de las cadenas es
 </p>
@@ -542,9 +556,9 @@ el código que representa el reconocedor de las cadenas es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline17">
+<section id="slide-orgheadline18">
 <div class="slide-header"></div>
-<h4 id="orgheadline17">Código</h4>
+<h4 id="orgheadline18">Código</h4>
 <p>
 el código principal es 
 </p>
@@ -569,9 +583,9 @@ el código principal es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline18">
+<section id="slide-orgheadline19">
 <div class="slide-header"></div>
-<h4 id="orgheadline18">Arbol SLD</h4>
+<h4 id="orgheadline19">Arbol SLD</h4>
 <div class="org-src-container">
 
 <pre  class="src src-prolog"><span style="color: #87cefa;">accept</span>(s1,<span style="color: #00ffff;">[</span>a,a,b<span style="color: #00ffff;">]</span>).
@@ -585,9 +599,9 @@ el código principal es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline19">
+<section id="slide-orgheadline20">
 <div class="slide-header"></div>
-<h4 id="orgheadline19">Arbol SLD</h4>
+<h4 id="orgheadline20">Arbol SLD</h4>
 <div class="org-src-container">
 
 <pre  class="src src-prolog"><span style="color: #87cefa;">accept</span>(s1,<span style="color: #00ffff;">[</span>a,b<span style="color: #00ffff;">]</span>).
@@ -601,9 +615,9 @@ el código principal es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline20">
+<section id="slide-orgheadline21">
 <div class="slide-header"></div>
-<h4 id="orgheadline20">Arbol SLD</h4>
+<h4 id="orgheadline21">Arbol SLD</h4>
 <div class="org-src-container">
 
 <pre  class="src src-prolog"><span style="color: #87cefa;">accept</span>(s1,<span style="color: #00ffff;">[</span>b<span style="color: #00ffff;">]</span>).
@@ -617,9 +631,9 @@ el código principal es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline21">
+<section id="slide-orgheadline22">
 <div class="slide-header"></div>
-<h4 id="orgheadline21">Arbol SLD</h4>
+<h4 id="orgheadline22">Arbol SLD</h4>
 <div class="org-src-container">
 
 <pre  class="src src-prolog"><span style="color: #87cefa;">accept</span>(s2,<span style="color: #00ffff;">[</span>b<span style="color: #00ffff;">]</span>).
@@ -633,9 +647,9 @@ el código principal es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline22">
+<section id="slide-orgheadline23">
 <div class="slide-header"></div>
-<h4 id="orgheadline22">Arbol SLD</h4>
+<h4 id="orgheadline23">Arbol SLD</h4>
 <div class="org-src-container">
 
 <pre  class="src src-prolog"><span style="color: #87cefa;">accept</span>(s4,<span style="color: #00ffff;">[</span>b<span style="color: #00ffff;">]</span>).
@@ -649,9 +663,9 @@ el código principal es
 
 <div class="slide-footer"></div>
 </section>
-<section id="slide-orgheadline23">
+<section id="slide-orgheadline24">
 <div class="slide-header"></div>
-<h4 id="orgheadline23">\(Tp^n\)</h4>
+<h4 id="orgheadline24">\(Tp^n\)</h4>
 <p>
 \(U = \{ a,b,s1,s2,s3,s4,[],[a],[b] ,[s1],\ldots,[a,a],[a,b],\ldots\}\)
 </p>

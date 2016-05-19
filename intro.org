@@ -37,11 +37,6 @@
 #+AUTHOR: Claudio Vaucheret
 #+EMAIL: cv@fi.uncoma.edu.ar
 
-* Eduardo Mombello
-
-- Director
-- sdfdd
-
 * Lenguajes Declarativos
 
 ** Características
